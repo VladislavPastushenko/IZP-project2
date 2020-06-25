@@ -1,5 +1,5 @@
 # IZP-project2
-Brno University of Technology second study project in Introduction to Programming Systems (IZP) subject (16.11.2019).
+Brno University of Technology second study project in Introduction to Programming Systems (IZP) subject (01.12.2019).
 
 # Popis projektu
 Najděte pracovní bod diody.
